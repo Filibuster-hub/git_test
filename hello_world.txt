@@ -1,0 +1,3 @@
+adding some code
+as instructions state
+next will stage with git add
